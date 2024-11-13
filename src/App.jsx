@@ -23,7 +23,6 @@ function App() {
             path='/'
             element={
               <div className='app__page'>
-                <h1>Home Page</h1>
                 <Sidebar />
                 <RecommendedVideos />
                 
